@@ -1,0 +1,29 @@
+.navbar {
+    font-size: 1.2rem;
+    padding: 1rem;
+    color: #fff;
+    margin-bottom: 2rem;
+}
+
+.navbar .brand {
+    margin-right: auto;
+    color: #fff;
+    text-decoration: none;
+    font-size: 2rem;
+}
+
+.navbar a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+}
+
+.navbar a:hover {
+    background: #fff;
+    color: #333;
+}
+
+.navbar a.active {
+    background: #fff;
+    color: #333;
+}
